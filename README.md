@@ -18,7 +18,7 @@ I have implemented Logistic Regression Model to predict Coronary Heart Disease.
 ## Data info:
 The dataset is available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
 
-The dataset is already provided in the repository ([here](https://github.com/Ravjot03/Heart-Disease-Prediction/blob/master/framingham.csv)).
+
 
 Framingham Heart study dataset includes several demographic risk factors:-
 1. `sex`: male or female
